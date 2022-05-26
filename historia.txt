@@ -8,13 +8,10 @@ Es un estudiante de ingenieria de software.
 
 RAMA MAIN - version final v1.0
 
-<<<<<<< HEAD
 Aqui agrego mas informacion de la rama MAIN o produccion
 
 ========================================================
-=======
 Se agrago la rama Secundaria 
 
 Hola, estoy uniendo mi codigo a la rama main.
 espero que no se rompa todo.
->>>>>>> secundario
