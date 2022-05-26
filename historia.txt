@@ -3,3 +3,5 @@ Esta es la historia de Alex Camacho
 Tiene 23 y nacio en Quito.
 
 Hablaremos de su historia.
+
+Es un estudiante de ingenieria de software.
